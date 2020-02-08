@@ -1,2 +1,2 @@
 # jupytercarnets
-Physics animations using Jupyter Notebooks and Carnets app
+Astronomy animations using Jupyter Notebooks and Carnets app
